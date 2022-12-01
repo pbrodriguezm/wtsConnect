@@ -9,6 +9,7 @@ output.csv
 browser-messages.json
 decoded-ws.json
 lib
+localConex
 docs
 browser-token.json
 Proxy
